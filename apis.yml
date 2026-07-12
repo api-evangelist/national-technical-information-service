@@ -30,6 +30,8 @@ apis:
       The NTIS National Technical Reports Library (NTRL) offers online, free
       and open access to authenticated government technical reports and documents.
 common:
+  - type: DomainSecurity
+    url: security/national-technical-information-service-domain-security.yml
   - type: LinkedIn
     url: https://www.linkedin.com/company/national-technical-information-service
   - type: Website
